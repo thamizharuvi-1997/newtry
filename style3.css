@@ -1,0 +1,39 @@
+
+	body{
+		margin: 0;
+		padding: 0;
+	}
+	.container {
+		background-color: blue;
+		padding-top: 20px;
+		padding-bottom: 28px;
+	}
+	.btn-info {
+		height: 60px;
+		width: 100px;
+		border-radius: 8px;
+		cursor: pointer;
+	}
+	.header1 a #b1 {
+       margin-left: 500px;
+       margin-top: -50px;
+       position: absolute;
+	}
+	.header1 a #b2 {
+       margin-left: 650px;
+       margin-top: -50px;
+       position: absolute;
+	}
+	#hh {
+		margin-left: 800px;
+		position: absolute;
+		margin-top: -40px;
+	}
+	.header1 a #b3 {
+       margin-left: 1200px;
+       margin-top: -50px;
+       position: absolute;
+	}
+	#hhh {
+		margin-left: 50px;
+	}

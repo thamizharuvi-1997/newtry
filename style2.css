@@ -1,0 +1,41 @@
+body {
+	background-color: #4267B2;;
+	font-family: sans-serif;
+
+}
+form .container {
+	background-color: white;
+	height: 500px;
+	width: 500px;
+	border-radius: 5px;
+	overflow: hidden;
+	margin-left: 590px;
+	margin-top: 130px;
+}
+.container h2 {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.container input {
+	
+	padding-right: 30px;
+	padding-left: 30px;
+	border-radius: 20px;
+	height: 50px;
+	width: 460px;
+}
+.username , .password  {
+	margin-bottom: 40px;
+}
+ .btn-primary {
+	width: 230px;
+	border-radius: 30px;
+}
+form img {
+	position :absolute;
+	height:500px;
+	width: 500px;
+	margin-top: -479px;
+	margin-left: -510px;
+}
